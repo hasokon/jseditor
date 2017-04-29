@@ -1,0 +1,44 @@
+#greeting {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  margin-right: 20px;
+  margin-bottom:10px;
+  float: left;
+  background-color: blue;
+  color: white;
+  padding: 5px;
+}
+
+#numOfchar {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  padding: 5px;
+}
+
+#input_text {
+  float: left;
+  margin-right: 2%;
+  width: 49%;
+  padding: 0px;
+  border: 0px;
+  font-size: 16px;
+}
+
+#selector {
+  float: left;
+  margin-bottom: 10px;
+}
+
+#files {
+  float: left;
+  margin-bottom: 10px;
+}
+
+#output_text {
+  float: left;
+  word-wrap: break-word;
+  width: 49%;
+  margin-right: 0px;
+  padding: 0px;
+  border: 0px;
+}
